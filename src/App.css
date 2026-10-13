@@ -577,14 +577,15 @@
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  background-color: #c9192e;
-  color: white;
+  background-color: #059669;
+  color: #ffffff;
   font-weight: 700;
   font-size: 14px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  box-shadow: 0 2px 6px rgba(5, 150, 105, 0.25);
 }
 
 .sku-summary-text {
